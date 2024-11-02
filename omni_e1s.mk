@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/samsung/e1s/device.mk)
 
 PRODUCT_DEVICE := e1s
-PRODUCT_NAME := omni_e1s
+PRODUCT_NAME := twrp_e1s
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-S921B
 PRODUCT_MANUFACTURER := samsung
